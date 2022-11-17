@@ -21,4 +21,4 @@
 <br />
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1gyou1)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1gyou1&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)</div>
