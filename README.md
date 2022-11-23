@@ -12,14 +12,16 @@
 
 <br /> 
 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/babel-F9DC3E?style=flat-square&logo=babel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/phpStorm-7556ef?style=flat-square&logo=phpStorm&logoColor=white"/>
 <img src="https://img.shields.io/badge/EditPlus-e15b50?style=flat-square&logo=EditPlus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-eeeeee?style=flat-square&logo=GitLab&logoColor=white"/>
 
 <br /> 
 
+<img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-eeeeee?style=flat-square&logo=GitLab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
