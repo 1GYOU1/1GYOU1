@@ -1,5 +1,11 @@
 <div align="center">
   
+### 🖤🖤🖤🖤
+
+<br />
+  
+  <!--
+  
 ## 🖤🖤Technical Stack🖤🖤
 
 <br />
@@ -28,6 +34,8 @@
 
 <br />
 <br />
+
+-->
 
 <a href="https://github.com/1gyou1">
   <img style="width:400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1gyou1&layout=compact&theme=buefy" />
