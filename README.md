@@ -55,9 +55,9 @@
 
 <br />
 
-<a href="https://www.instagram.com/1_gyou_1" target="_blank">
+<!-- <a href="https://www.instagram.com/1_gyou_1" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-</a>
+</a> -->
 <a href="https://mail.naver.com/write/ext?srvid=note&to=1gyou1@naver.com" target="_blank">
   <img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 </a>
