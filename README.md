@@ -38,14 +38,14 @@
 -->
 
 <a href="https://github.com/1gyou1">
-  <img style="width:400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1gyou1&layout=compact&theme=buefy" />
+  <img style="width:330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1gyou1&layout=compact&theme=buefy" />
 </a> 
   
 <br />
 <br />
   
 <a href="https://github.com/1gyou1">
-  <img style="width:500px" src="https://github-readme-stats.vercel.app/api?username=1gyou1&show_icons=true&include_all_commits=true&theme=buefy" alt="1gyou1's github stats" />
+  <img style="width:420px" src="https://github-readme-stats.vercel.app/api?username=1gyou1&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues,contribs&show_owner=true&theme=buefy" alt="1gyou1's github stats" />
 </a>
 
 <br />
